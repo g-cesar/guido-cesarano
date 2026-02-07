@@ -104,12 +104,14 @@ I'm a passionate software developer who loves turning ideas into reality through
 
 <div align="center">
 
-<!-- You can customize these with your actual repositories -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=g-cesar&repo=guido-cesarano&theme=radical&hide_border=true)](https://github.com/g-cesar/guido-cesarano)
+<!-- Add your featured projects here! Example: -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=g-cesar&repo=your-project-name&theme=radical&hide_border=true)](https://github.com/g-cesar/your-project-name) -->
+
+**🚧 Coming Soon - Exciting projects in the works! 🚧**
 
 </div>
 
-> 💡 **Tip**: Click on any project to explore it!
+> 💡 **Tip**: Check back soon for featured projects or explore all my repositories below!
 
 ---
 
